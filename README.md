@@ -1,1 +1,1 @@
-This repository for testing template
+This repository for testing template.
